@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-2009/taller_bootstrap4.git"
+  },
+  "author": "John Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-2009/taller_bootstrap4/issues"
+  },
+  "homepage": "https://github.com/John-2009/taller_bootstrap4#readme"
+}
