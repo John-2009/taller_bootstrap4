@@ -4,6 +4,9 @@
   "description": "Nuestro primer proyecto de Nodejs",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server"
+  },
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/John-2009/taller_bootstrap4/issues"
   },
-  "homepage": "https://github.com/John-2009/taller_bootstrap4#readme"
+  "homepage": "https://github.com/John-2009/taller_bootstrap4#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
